@@ -26,7 +26,7 @@ The AI Outlook Email Analyzer Program is a powerful tool designed to help users 
 
 ## System Requirements
 - **Operating System**: Windows 10 or later
-- **Hard Disk Space**: At least 5.1G disk storage space needed for main program and another 1-5G for AI Large Language Models depending on which model to use
+- **Hard Disk Space**: At least 5.1 Giga Bytes disk storage space needed for main program and another 1-5 Giga Bytes for AI Large Language Models depending on which model to use
 
 ---
 
