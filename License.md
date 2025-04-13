@@ -1,7 +1,7 @@
 # Software License Agreement
 
 ## Copyright Notice
-Copyright © 2025 by [GAI-YJ]. All rights reserved.
+Copyright © 2025 by GAI-YJ. All rights reserved.
 
 This software, **AI Outlook Email Analyzer Program**, is the intellectual property of the author. Unauthorized copying, modification, distribution, or use of this software, in whole or in part, is strictly prohibited without prior written permission from the author.
 
