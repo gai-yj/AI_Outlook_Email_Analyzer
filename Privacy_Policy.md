@@ -63,7 +63,7 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 ## Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-**Email**: service@zstem.cn
+**Provide feedback**: [https://github.com/gai-yj/AI_Outlook_Email_Analyzer/issues](https://github.com/gai-yj/AI_Outlook_Email_Analyzer/issues)
 **Website**: [https://github.com/gai-yj/AI_Outlook_Email_Analyzer/](https://github.com/gai-yj/AI_Outlook_Email_Analyzer/)
 
 ---
