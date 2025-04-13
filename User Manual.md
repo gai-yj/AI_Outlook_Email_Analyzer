@@ -145,4 +145,4 @@ The program interface consists of the following main components:
 
 ---
 
-For further assistance, contact the developer at **service@zstem.cn**.
+For further assistance, contact the developer at **[https://github.com/gai-yj/AI_Outlook_Email_Analyzer/issues](https://github.com/gai-yj/AI_Outlook_Email_Analyzer/issues)**.
